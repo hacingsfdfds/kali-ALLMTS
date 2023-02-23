@@ -10,6 +10,6 @@ apt install python3
 git clone https://github.com/hacingsfdfds/ALLMTNSs
 وقم بدخول لملف الادة ومن ثم اكتب 
 pip install -r requirements.txt
-لتشغيل الادة python3 ALLMTNS.py
+لتشغيل الادة python kali-ALLMTS.py 
 لمعرفة كيفية إستخدام الادة بكامل قم بمشاهد الشرح على قناتي اليوتيوب 
 https://www.youtube.com/@user-rm4zx2ct2b
